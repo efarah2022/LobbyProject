@@ -1,0 +1,822 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-03T11:27:41.091-07:00
+  initializedAtString: 2019-10-03T11:27:41.091-07:00
+  entries:
+  - path: .vscode/settings.json
+    fullPath: /Users/EthanFarah/Monster Idea/.vscode/settings.json
+    projectPath: .vscode/settings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack.meta
+    projectPath: Assets/FX_Kandol_Pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat.meta
+    projectPath: Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes.meta
+    projectPath: Assets/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Lobby.unity
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/Lobby.unity
+    projectPath: Assets/Scenes/Lobby.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Lobby.unity.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/Lobby.unity.meta
+    projectPath: Assets/Scenes/Lobby.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/OrbitCamera.cs
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/OrbitCamera.cs
+    projectPath: Assets/Scenes/OrbitCamera.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/OrbitCamera.cs.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/OrbitCamera.cs.meta
+    projectPath: Assets/Scenes/OrbitCamera.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.controller
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.controller
+    projectPath: Assets/Scenes/player.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.controller.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.controller.meta
+    projectPath: Assets/Scenes/player.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.fbx
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.fbx
+    projectPath: Assets/Scenes/player.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.fbx.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.fbx.meta
+    projectPath: Assets/Scenes/player.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.prefab
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.prefab
+    projectPath: Assets/Scenes/player.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/player.prefab.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/player.prefab.meta
+    projectPath: Assets/Scenes/player.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/RelativeMovement.cs
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/RelativeMovement.cs
+    projectPath: Assets/Scenes/RelativeMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/RelativeMovement.cs.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/Scenes/RelativeMovement.cs.meta
+    projectPath: Assets/Scenes/RelativeMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/torch.fbx
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/torch.fbx
+    projectPath: Assets/torch.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/torch.fbx.meta
+    fullPath: /Users/EthanFarah/Monster Idea/Assets/torch.fbx.meta
+    projectPath: Assets/torch.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Users/EthanFarah/Monster Idea/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/AudioManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/AudioManager.asset
+    projectPath: ProjectSettings/AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ClusterInputManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/ClusterInputManager.asset
+    projectPath: ProjectSettings/ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/DynamicsManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/DynamicsManager.asset
+    projectPath: ProjectSettings/DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NetworkManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/NetworkManager.asset
+    projectPath: ProjectSettings/NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Packages/com.unity.probuilder/Settings.json
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+    projectPath: ProjectSettings/Packages/com.unity.probuilder/Settings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Packages/com.unity.settings-manager/Settings.json
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/Packages/com.unity.settings-manager/Settings.json
+    projectPath: ProjectSettings/Packages/com.unity.settings-manager/Settings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Physics2DSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PresetManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/PresetManager.asset
+    projectPath: ProjectSettings/PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TimeManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/TimeManager.asset
+    projectPath: ProjectSettings/TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Users/EthanFarah/Monster Idea/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
